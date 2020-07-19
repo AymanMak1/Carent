@@ -16,7 +16,7 @@ This repository has the following structure:
 - Database
 
   - Screenshots of the Tables and some data records, created with Oracle DataBase Express Edition.
-  - Screenshots of the package and databases procedures, created with Oracle DataBase Express Edition.
+  - Screenshots of the package and databases procedures and sql files, created with Oracle DataBase Express Edition .
 
 - UML Modeling Folder contains :
 
